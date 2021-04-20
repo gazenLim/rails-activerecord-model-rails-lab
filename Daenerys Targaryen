@@ -1,0 +1,2 @@
+Could not find generator 'migratinon'. Maybe you meant 'migration', 'generator' or 'mailer'
+Run `rails generate --help` for more options.
